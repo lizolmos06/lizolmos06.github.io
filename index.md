@@ -7,7 +7,7 @@ I am a computer science major at CSUF and I plan on graduating in 2028.
 
 Lab 2, Part 1
 
-    I enjoyed working on this lab because it was a very fun way to create a story based on the user's input. In this lab, we provided prompts for users to respond to. The response would fill gaps in the statement made, like mad libs. Through this project I learned how to declare and initialize string variables. This lab also taught me how to make the output look clean  and user friendly.
+    I really enjoyed working on this lab because it was a very fun way to create a story based on the user's input. In this lab, we provided prompts for users to respond to. The response would fill gaps in the statement made, like mad libs. Through this project I learned how to declare and initialize string variables. This lab also taught me how to make the output look clean  and user friendly.
 
 Lab 11, Part 2
 
